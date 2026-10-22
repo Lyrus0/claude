@@ -1,0 +1,2 @@
+claude-code-releases/*/win32-x64/claude.exe filter=lfs diff=lfs merge=lfs -text
+claude-code-releases/*/win32-arm64/claude.exe filter=lfs diff=lfs merge=lfs -text
